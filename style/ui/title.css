@@ -1,0 +1,43 @@
+.title{
+    font-weight: bold;
+}
+
+.title_vlg{
+    font-size: 96px;
+}
+
+.title_lg{
+    font-size: 74px;
+}
+
+.title_bg{
+    font-size: 45px;
+}
+
+.title_md{
+    font-size: 40px;
+}
+
+.title_lw{
+    font-size: 24px;
+}
+
+.title_lt{
+    font-size: 16px;
+}
+
+.title_s{
+    font-size: 12px;
+}
+
+.title_orange{
+    color: #F0892D;
+}
+
+.title_black{
+    color: #000;
+}
+
+.title_white{
+    color: #fff;
+}

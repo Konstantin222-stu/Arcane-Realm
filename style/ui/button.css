@@ -1,0 +1,40 @@
+.button{
+    font-weight: 500;
+    color: #fff;
+}
+
+.button_bg{
+    padding: 17px 15px;
+    font-size: 20px;
+}
+
+.button_md{
+    padding: 15px 25px;
+    font-size: 13px;
+}
+
+.button_l-orange{
+    background-color: rgba(240, 152, 33, 1);
+}
+
+.button_orange{
+    background-color: #F0892D;
+}
+
+.button_orange{
+    background-color: #2C8C49;
+}
+
+.button_black{
+    background-color: #24252D;
+}
+
+
+
+.button_sl-r{
+    border-radius: 6px;
+}
+
+.button_r{
+    border-radius: 30px;
+}

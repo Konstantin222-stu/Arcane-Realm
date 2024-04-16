@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+ }
+
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #111216;
+}
+.wrap{
+    width: 90%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    text-transform: lowercase;
+}

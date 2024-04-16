@@ -1,0 +1,43 @@
+.desc{
+    color: #fff;
+}
+
+.desc_lg{
+    font-size: 25px;
+}
+
+.desc_bg{
+    font-size: 22px;
+}
+
+.desc_md{
+    font-size: 20px;
+}
+
+.desc_lw{
+    font-size: 16px;
+}
+
+.desc_lt{
+    font-size: 14px;
+}
+
+.desc_s{
+    font-size: 11px;
+}
+
+.desc_orange{
+    color: #F0892D;
+}
+
+.desc_black{
+    color: #000;
+}
+
+.desc_gray{
+    color: #999;
+}
+
+.desc_white{
+    color: #fff;
+}
